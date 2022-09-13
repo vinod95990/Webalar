@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Webalar/static/css/main.04298486.css",
+    "main.js": "/Webalar/static/js/main.6a442acb.js",
+    "static/media/intro.png": "/Webalar/static/media/intro.baf7008e45f7577eb22f.png",
+    "static/media/design.png": "/Webalar/static/media/design.ac5cc1edae28e3741537.png",
+    "static/media/market.png": "/Webalar/static/media/market.de0a17f257d2c26e78ab.png",
+    "static/media/project.png": "/Webalar/static/media/project.b549e761789702479dfe.png",
+    "static/media/coding.png": "/Webalar/static/media/coding.5325b10c8508487a9af4.png",
+    "static/media/right-arrow.png": "/Webalar/static/media/right-arrow.1c4a61a1f00ca3b6925f.png",
+    "index.html": "/Webalar/index.html",
+    "main.04298486.css.map": "/Webalar/static/css/main.04298486.css.map",
+    "main.6a442acb.js.map": "/Webalar/static/js/main.6a442acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04298486.css",
+    "static/js/main.6a442acb.js"
+  ]
+}
